@@ -6,6 +6,7 @@ namespace PracticeCoreCDPs.Areas.AbsFactory.Core
 {
     public class DatabaseHelper
     {
+        //Adding a comment, testing GIT
         private readonly IDatabaseFactory _factory;
 
         public DatabaseHelper(IDatabaseFactory factory)
